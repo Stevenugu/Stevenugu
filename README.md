@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/o7pSX2m.gif" width="100%" />
+  <img src="" width="100%" />
 </p>
 
 ---
