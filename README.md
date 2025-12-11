@@ -1,16 +1,39 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.imgur.com/fZ3P4J0.gif" width="100%" />
+</p>
 
-<!--
-**Stevenugu/Stevenugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">heya! 👋</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>16! / Estudiante de programación novato btw (^_-) / C+H / Builderman fan :3</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Sobre mí
+- Aprendiendo programación poco a poco, con errorcitos pero con estilo ✨  
+- Amo crear cosas, romperlas y volverlas a armar  
+- Roblox enjoyer ⚙️  
+- Fan de Builderman (sí, obvio 😎)  
+
+---
+
+### 🛠️ Tecnologías que uso / estoy aprendiendo:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+</p>
+
+---
+
+### 🎨 Estética / mood del perfil
+
+<p align="center">
+  <img src="https://i.imgur.com/o7pSX2m.gif" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Gracias por pasar por aquí ♡</sub>
+</p>
