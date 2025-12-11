@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mx.pinterest.com/pin/121949102406666163/" width="100%" />
+  <img src="artfull.jfif" width="100%" />
 </p>
 
 <h2 align="center">heya! 👋</h2>
