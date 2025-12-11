@@ -11,10 +11,10 @@
 ---
 
 ### 🌱 Sobre mí
-- Aprendiendo programación poco a poco, con errorcitos pero con estilo ✨ 
-- Amo crear cosas, romperlas y volverlas a armar  
+- Aprendiendo programación poco a ᴘᴏᴄᴏ :P 
+- Amo crear cosas! (*＾＾*)// 
 - Roblox enjoyer   
-- Fan de Builderman!! 
+- Builderman fan ☆!! 
 
 ---
 
