@@ -5,7 +5,7 @@
 
 ---
 
-<h1 align="center">Heya! Soy Steven! (～￣▽￣)～</h1>
+<h1 align="center">Heya! Soy Steven! (っ ′o′ )</h1>
 <h3 align="center">
 16! / Estudiante de programación novata btw (^_-) <br>
 C + H / Builderman fan :3
@@ -14,14 +14,16 @@ C + H / Builderman fan :3
 ---
 
 ## ♪(´▽｀) About Me!
-- ▶ Aprendiendo programación y desarrollo web  
-- ▶ Interesado en Python, HTML, CSS y JavaScript y algunos otros btw
+- ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
+- ▶ Aprendiendo programación y desarrollo web :P 
+- ▶ Interesado en Python, HTML, CSS y JavaScript y algunos otros btw!
 - ▶ Roblox lover!!  
-- ▶ Me gusta crear cosas!  
+- ▶ Me gusta crear cosas!
+- ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
 
 ---
 
-## ϚLenguajes que estoy aprendiendo. 🌸Ϡ
+## ϚLenguajes que estoy aprendiendo. 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&perline=7" />
 </p>
@@ -37,32 +39,11 @@ C + H / Builderman fan :3
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevenugu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## ⭐ Best Repositories
-- 📌 **Proyecto 1** – descripción corta  
-- 📌 **Proyecto 2** – descripción corta  
-- 📌 **Proyecto 3** – descripción corta  
-
----
-
-## 📫 Connect with me
-<p align="center">
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
 
 <!-- IMAGEN FINAL AESTHETIC -->
 <p align="center">
   <img src="final.png" />
 </p>
-
 
 
 <p align="center">
