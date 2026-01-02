@@ -1,30 +1,68 @@
+<!-- BANNER -->
 <p align="center">
-  <img src="https://www.facebook.com/photo/?fbid=1218999826647759&set=gm.2156966711394091&idorvanity=1974780189612745" width="100%" />
-</p>
-
-<h2 align="center">HEYA!  (⸝⸝ᵕᴗᵕ⸝⸝) </h2>
-
-<p align="center">
-  <strong>16! / Estudiante de programación novato btw (^_-) / C+H / Builderman fan :3</strong>
+  <img src="banner.png" />
 </p>
 
 ---
 
-### 🌱 Sobre mí
-- Aprendiendo programación poco a ᴘᴏᴄᴏ :P 
-- Amo crear cosas! (*＾＾*)// 
-- Roblox enjoyer   
-- Builderman fan ☆!! 
+<h1 align="center">Heya! Soy Steven! (～￣▽￣)～</h1>
+<h3 align="center">
+16! / Estudiante de programación novata btw (^_-) <br>
+C + H / Builderman fan :3
+</h3>
 
 ---
 
-### Programas que uso / estoy aprendiendo:
+## ♪(´▽｀) About Me!
+- ▶ Aprendiendo programación y desarrollo web  
+- ▶ Interesado en Python, HTML, CSS y JavaScript y algunos otros btw
+- ▶ Roblox lover!!  
+- ▶ Me gusta crear cosas!  
 
+---
+
+## ϚLenguajes que estoy aprendiendo. 🌸Ϡ
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&perline=7" />
 </p>
 
 ---
+
+## 📊 GitHub Status
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ⭐ Best Repositories
+- 📌 **Proyecto 1** – descripción corta  
+- 📌 **Proyecto 2** – descripción corta  
+- 📌 **Proyecto 3** – descripción corta  
+
+---
+
+## 📫 Connect with me
+<p align="center">
+  <a href="mailto:tuemail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/TU_USUARIO">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<!-- IMAGEN FINAL AESTHETIC -->
+<p align="center">
+  <img src="final.png" />
+</p>
+
 
 
 <p align="center">
