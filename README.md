@@ -19,7 +19,14 @@ C + H / Builderman fan :3
 - ▶ Interesado en Python, HTML, CSS y JavaScript y algunos otros btw!
 - ▶ Roblox lover!!  
 - ▶ Me gusta crear cosas!
-- ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
+- ————————————————————
+- ┊┊┊┊ ➶ ❁۪ ｡˚ ✧
+- ┊┊┊✧ ⁺ ⁺ °
+- ┊┊❁ཻུ۪۪♡ ͎. ｡˚ °
+- ┊┊.
+- ┊ ➶ ｡˚ °
+- *. * ·
+
 
 ---
 
