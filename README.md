@@ -35,9 +35,9 @@ C + H / Builderman fan :3
 
 ## ★ Lenguajes de programaciónque estoy apremdiemdo 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevenugu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+  <img src=૮(˶ᵔᵕᵔ˶)ა
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&perline=7"/>
 
 ---
 
