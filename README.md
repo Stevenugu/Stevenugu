@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="[banner.pn](https://i.pinimg.com/1200x/15/89/50/158950410a53de803513cd4b47dd613b.jpg)"/>
+  <img src="[[banner.pn](https://i.pinimg.com/1200x/15/89/50/158950410a53de803513cd4b47dd613b.jpg)](https://www.pinterest.com/pin/discord-banners--55521007900122721/)"/>
 </p>
 
 ---
