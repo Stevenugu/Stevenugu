@@ -1,5 +1,11 @@
 <!-- BANNER -->
 <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iwanvlke5cvlngcinulkuqc4va&cover_image=true&theme=default&show_offline=false&background_color=8a3846&interchange=true&profanity=false&bar_color=5e1230">
+  </a>
+</p>
+
+<p align="center">
   <img src="[[[[banner.pn](https://i.pinimg.com/1200x/15/89/50/158950410a53de803513cd4b47dd613b.jpg)](https://www.pinterest.com/pin/discord-banners--55521007900122721/)"](https://i.pinimg.com/564x/18/95/de/1895de4882fc476de7d3946728039d2d.jpg)](https://mx.pinterest.com/pin/176414510398596825/)"/>
 </p>
 
