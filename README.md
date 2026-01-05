@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="[[[[banner.pn](https://i.pinimg.com/1200x/15/89/50/158950410a53de803513cd4b47dd613b.jpg)](https://www.pinterest.com/pin/discord-banners--55521007900122721/)"](https://i.pinimg.com/564x/18/95/de/1895de4882fc476de7d3946728039d2d.jpg)](https://mx.pinterest.com/pin/176414510398596825/)"/>
+  <img src="![4237753356771414929.jpeg](https://github.com/user-attachments/assets/343bdc3b-a8f6-4472-9062-321dbd4f4a9f)
+
+"/>
 </p>
 
 <p align="center">
