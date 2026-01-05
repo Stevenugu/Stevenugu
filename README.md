@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="banner.png" />
+  <img src="[banner.pn](https://i.pinimg.com/1200x/15/89/50/158950410a53de803513cd4b47dd613b.jpg)" />
 </p>
 
 ---
@@ -19,18 +19,16 @@ C + H / Builderman fan :3
 - ▶ Interesado en Python, HTML, CSS y JavaScript y algunos otros btw!
 - ▶ Roblox lover!!  
 - ▶ Me gusta crear cosas!
-- ————————————————————
-- ┊┊┊┊ ➶ ❁۪ ｡˚ ✧
-- ┊┊┊✧ ⁺ ⁺ °
-- ┊┊❁ཻུ۪۪♡ ͎. ｡˚ °
-- ┊┊.
-- ┊ ➶ ｡˚ °
-- *. * ·
+- ▶ BUILDERMAN LOVEERRRR
+- ▶ Nu-metal fan
+- ▶ TRANSFORMERS LOVER OH SII
+- ▶ No hablo mucho ingles ;(
+- ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
 
 
 ---
 
-## ϚLenguajes que estoy aprendiendo. 
+## -.Lenguajes que estoy aprendiendo.-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&perline=7" />
 </p>
