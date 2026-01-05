@@ -18,14 +18,15 @@ C + H / Builderman fan :3
 
 ## ♪(´▽｀) About Me!
 - ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
-- ▶ Aprendiendo programación y desarrollo web :P 
-- ▶ Interesado en Python, HTML, CSS y JavaScript y algunos otros btw!
-- ▶ Roblox lover!!  
-- ▶ Me gusta crear cosas!
-- ▶ BUILDERMAN LOVEERRRR
-- ▶ Nu-metal fan
-- ▶ TRANSFORMERS LOVER OH SII
-- ▶ No hablo mucho ingles ;(
+- ★-.Aprendiendo programación y desarrollo web :P 
+- ★-.Interesado en Python, HTML, CSS y JavaScript y algunos otros btw!
+- ★-.Roblox lover!!  
+- ★-.Me gusta crear cosas!
+- ★-.BUILDERMAN, ARTFUL, 1X1, JX1DX1 LOVEERRRR ♥︎
+- ★-.Nu-metal fan
+- ★-.TRANSFORMERS LOVER OH SII
+- ★-.No hablo mucho ingles ;(
+- ★-. Fan de los juegos de horror psicológico (⑅•ᴗ•⑅)
 - ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
 ---
 <img src="https://www.discordbanner.org/images/PUBG_MOBILE_banner.jpg">
@@ -33,7 +34,7 @@ C + H / Builderman fan :3
 
 ---
 
-## ★ Lenguajes de programaciónque estoy aprendiendo 
+## ★ Lenguajes de programación que estoy aprendiendo 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&perline=7"/>
 
