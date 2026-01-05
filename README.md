@@ -64,6 +64,8 @@ C + H / Builderman fan :3
   <sub>Gracias por Leer :) ♡</sub>
 </p> 
 
-![2232004600571459387.gif](https://github.com/user-attachments/assets/53a1be65-258c-4232-a74a-f80a2da6132d)
+![2548457883463559084.gif](https://github.com/user-attachments/assets/27cecbc4-2fa7-4149-830d-5216645e877e)
+
+
 
 
