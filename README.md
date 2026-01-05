@@ -28,7 +28,7 @@ C + H / Builderman fan :3
 - ★-.No hablo mucho ingles ;(
 - ★-. Fan de los juegos de horror psicológico (⑅•ᴗ•⑅)
 
- ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
+﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
 ---
 <img src="https://www.discordbanner.org/images/PUBG_MOBILE_banner.jpg">
   </a>
