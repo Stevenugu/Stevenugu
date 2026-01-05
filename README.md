@@ -27,40 +27,17 @@ C + H / Builderman fan :3
 - ▶ TRANSFORMERS LOVER OH SII
 - ▶ No hablo mucho ingles ;(
 - ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
-
-![7509536066617376982.gif](https://github.com/user-attachments/assets/e0f805d2-e116-43e9-8e51-5ba8ccf08cc5)
-
+---
 <img src="https://www.discordbanner.org/images/PUBG_MOBILE_banner.jpg">
   </a>
 
 ---
 
-## -.Lenguajes que estoy aprendiendo.-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&perline=7" />
-</p>
-
----
-
-## GitHub Status o_o
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stevenugu&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
+## ★ Lenguajes de programaciónque estoy apremdiemdo 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevenugu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
-<!-- IMAGEN FINAL AESTHETIC -->
-<p align="center">
-  <img src="final.png" />
-</p>
-
-
-<p align="center">
-  <img src="" width="100%" />
-</p>
 
 ---
 
