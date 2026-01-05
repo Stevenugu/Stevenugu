@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="![4237753356771414929.jpeg](https://github.com/user-attachments/assets/3be8c201-ee27-41db-a5ba-7213d0e91ae1)"/>
-</p>
+![-4866142040871820521.gif](https://github.com/user-attachments/assets/e4902f08-48c7-40e8-98d2-958542e1909b
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31iwanvlke5cvlngcinulkuqc4va&redirect=true">
