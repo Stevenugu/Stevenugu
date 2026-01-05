@@ -35,7 +35,7 @@ C + H / Builderman fan :3
 
 ---
 
-## 📊 GitHub Status
+## GitHub Status o_o
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Stevenugu&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
