@@ -1,4 +1,4 @@
-![-4866142040871820521.gif](https://github.com/user-attachments/assets/e4902f08-48c7-40e8-98d2-958542e1909b) 
+![7888744727932748342.gif](https://github.com/user-attachments/assets/4e7dd550-088f-451a-8744-02b49d984139)
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31iwanvlke5cvlngcinulkuqc4va&redirect=true">
