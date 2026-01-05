@@ -17,7 +17,7 @@ C + H / Builderman fan :3
 ---
 
 ## ♪(´▽｀) About Me!
-- ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
+ ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
 - ★-.Aprendiendo programación y desarrollo web :P 
 - ★-.Interesado en Python, HTML, CSS y JavaScript y algunos otros btw!
 - ★-.Roblox lover!!  
@@ -27,7 +27,7 @@ C + H / Builderman fan :3
 - ★-.TRANSFORMERS LOVER OH SII
 - ★-.No hablo mucho ingles ;(
 - ★-. Fan de los juegos de horror psicológico (⑅•ᴗ•⑅)
-- ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
+ ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
 ---
 <img src="https://www.discordbanner.org/images/PUBG_MOBILE_banner.jpg">
   </a>
