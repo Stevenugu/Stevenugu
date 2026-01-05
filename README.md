@@ -9,7 +9,7 @@
 
 <h1 align="center">Heya! Soy Steven! (っ ′o′ )</h1>
 <h3 align="center">
-16! / Estudiante de programación novata btw (^_-) <br>
+16! / Estudiante de programación novato btw (^_-) <br>
 C + H / Builderman fan :3
 </h3>
 
