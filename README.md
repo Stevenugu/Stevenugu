@@ -40,7 +40,7 @@ C + H / Builderman fan :3
 ---
 
 <p align="center">
-  <sub>Gracias por Leer :) ♡</sub>
+  <sub>Gracias por Leer, habla conmigo si quieres, no muero :] ♡</sub>
 </p> 
 
 ![2548457883463559084.gif](https://github.com/user-attachments/assets/27cecbc4-2fa7-4149-830d-5216645e877e)
