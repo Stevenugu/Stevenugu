@@ -1,6 +1,7 @@
 ![7888744727932748342.gif](https://github.com/user-attachments/assets/a7b05964-e950-491f-9399-f5d1db33edc8)
 
 
+https://www.discordbanner.org/images/PUBG_MOBILE_banner.jpg
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31iwanvlke5cvlngcinulkuqc4va&redirect=true">
