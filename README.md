@@ -33,9 +33,7 @@ C + H / Builderman fan :3
 
 ---
 
-## ★ Lenguajes de programaciónque estoy apremdiemdo 
-<p align="center">
-  <img src=૮(˶ᵔᵕᵔ˶)ა
+## ★ Lenguajes de programaciónque estoy aprendiendo 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&perline=7"/>
 
