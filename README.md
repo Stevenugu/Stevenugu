@@ -13,7 +13,7 @@
 C + H / Builderman fan :3
 </h3>
 
-![7770159715047225421.gif](https://github.com/user-attachments/assets/f5b16979-d9f3-4ba0-91d6-9d67ad249c05
+![7770159715047225421.gif](https://github.com/user-attachments/assets/f5b16979-d9f3-4ba0-91d6-9d67ad249c05) 
 ---
 
 ## ♪(´▽｀) About Me!
