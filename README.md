@@ -27,6 +27,9 @@ C + H / Builderman fan :3
 - ▶ TRANSFORMERS LOVER OH SII
 - ▶ No hablo mucho ingles ;(
 - ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
+
+![7509536066617376982.gif](https://github.com/user-attachments/assets/e0f805d2-e116-43e9-8e51-5ba8ccf08cc5)
+
 <img src="https://www.discordbanner.org/images/PUBG_MOBILE_banner.jpg">
   </a>
 
